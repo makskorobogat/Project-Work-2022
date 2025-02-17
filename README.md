@@ -13,4 +13,4 @@ To install a new framework just write that in console "pip install [Name of libr
 
 For example: "pip install sklearn"
 
-If there are any problems or bugs, please contact us
+If there are any problems or bugs, please contact me, because I think I am the only one person who can be contacted about this project
